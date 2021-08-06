@@ -6,7 +6,7 @@ specifiers:
   '@testing-library/user-event': 12.8.3
   '@types/jest': 26.0.24
   '@types/node': 14.17.9
-  '@types/react': 17.0.15
+  '@types/react': 17.0.16
   '@types/react-dom': 17.0.9
   concurrently: 5.3.0
   cross-env: 7.0.3
@@ -24,7 +24,7 @@ dependencies:
   '@testing-library/user-event': 12.8.3
   '@types/jest': 26.0.24
   '@types/node': 14.17.9
-  '@types/react': 17.0.15
+  '@types/react': 17.0.16
   '@types/react-dom': 17.0.9
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
@@ -2064,8 +2064,8 @@ packages:
       csstype: 3.0.3
     dev: false
 
-  /@types/react/17.0.15:
-    resolution: {integrity: sha512-uTKHDK9STXFHLaKv6IMnwp52fm0hwU+N89w/p9grdUqcFA6WuqDyPhaWopbNyE1k/VhgzmHl8pu1L4wITtmlLw==}
+  /@types/react/17.0.16:
+    resolution: {integrity: sha512-3kCUiOOlQTwUUvjNFkbBTWMTxdTGybz/PfjCw9JmaRGcEDBQh+nGMg7/E9P2rklhJuYVd25IYLNcvqgSPCPksg==}
     dependencies:
       '@types/prop-types': 15.7.3
       '@types/scheduler': 0.16.1
